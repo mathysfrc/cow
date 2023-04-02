@@ -1,0 +1,17 @@
+{
+    "name": "mathys/vache",
+    "autoload": {
+        "psr-4": {
+            "Mathys\\Vache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mathysfrc",
+            "email": "mathysf41@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
